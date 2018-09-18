@@ -1,8 +1,8 @@
-public class Kysymys {
+public class Pelikysymys {
     private String question;
     private String answer;
 
-    public Kysymys(String question, String answer) {
+    public Pelikysymys(String question, String answer) {
         this.question = question;
         this.answer = answer;
 
